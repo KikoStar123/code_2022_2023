@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1035\1035\源.cpp(10,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  1035.vcxproj -> C:\Users\北极星polaris\source\repos\1035\Debug\1035.exe

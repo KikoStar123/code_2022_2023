@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1040\源.cpp(8,13): warning C4101: “temp2”: 未引用的局部变量
+  1040.vcxproj -> C:\Users\北极星polaris\source\repos\1040\Debug\1040.exe

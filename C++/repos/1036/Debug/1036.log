@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1036\源.cpp(6,10): warning C4101: “t2”: 未引用的局部变量
+C:\Users\北极星polaris\source\repos\1036\源.cpp(6,6): warning C4101: “t1”: 未引用的局部变量
+  1036.vcxproj -> C:\Users\北极星polaris\source\repos\1036\Debug\1036.exe

@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+class Person
+{
+private:
+    long IdPerson;
+    char Name[20];
+    char Sex[20];
+    char Birthday[20];
+    char HomeAddress[20];
+};
+
+int main()
+{
+
+    return 0;
+}

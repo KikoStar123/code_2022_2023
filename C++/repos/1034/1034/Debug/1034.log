@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1034\1034\源.cpp(5,9): warning C4101: “a”: 未引用的局部变量
+C:\Users\北极星polaris\source\repos\1034\1034\源.cpp(5,12): warning C4101: “b”: 未引用的局部变量
+C:\Users\北极星polaris\source\repos\1034\1034\源.cpp(5,15): warning C4101: “c”: 未引用的局部变量
+  1034.vcxproj -> C:\Users\北极星polaris\source\repos\1034\Debug\1034.exe

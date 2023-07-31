@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1156\源.cpp(11,9): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(14,12): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(16,13): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(19,13): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(21,13): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(24,14): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(27,14): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1156\源.cpp(7,18): warning C4101: “k”: 未引用的局部变量
+  1156.vcxproj -> C:\Users\北极星polaris\source\repos\1156\Debug\1156.exe

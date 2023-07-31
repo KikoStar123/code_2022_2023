@@ -1,0 +1,4 @@
+﻿  main1.cpp
+C:\Users\北极星polaris\source\repos\A-combat1\A-combat1\main1.cpp(23,6): warning C4101: “value_brith_month”: 未引用的局部变量
+C:\Users\北极星polaris\source\repos\A-combat1\A-combat1\main1.cpp(22,6): warning C4101: “value_brith_date”: 未引用的局部变量
+  A-combat1.vcxproj -> C:\Users\北极星polaris\source\repos\A-combat1\Debug\A-combat1.exe

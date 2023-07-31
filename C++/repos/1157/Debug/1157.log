@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\北极星polaris\source\repos\1157\源.cpp(8,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\北极星polaris\source\repos\1157\源.cpp(18,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  1157.vcxproj -> C:\Users\北极星polaris\source\repos\1157\Debug\1157.exe

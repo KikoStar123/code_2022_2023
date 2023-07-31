@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1091,5): warning MSB8027: 名为 1.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 ..\..\Project3\Project3\1.cpp, ..\..\Project4\Project4\1.cpp。
+  源1.cpp
+C:\Users\北极星polaris\source\repos\Project5\Project5\源1.cpp(26,9): warning C4244: “=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  queen.cpp
+c1xx : fatal error C1083: 无法打开源文件: “D:\一本通\1. 算法部分\第5章 搜索与回溯算法\3.N皇后问题\queen.cpp”: No such file or directory
+  源.cpp
+c1xx : fatal error C1083: 无法打开源文件: “源.cpp”: No such file or directory
+  源2.cpp
+  正在生成代码...

@@ -1,0 +1,18 @@
+[submodule "assets/POI_JSON_API"]
+	path = assets/POI_JSON_API
+	url = https://github.com/GenshinImpactAssistant/GIA_POI_JSON_API.git
+[submodule "assets/YoloxModels"]
+	path = assets/YoloxModels
+	url = https://github.com/GenshinImpactAssistant/YoloxModels
+[submodule "assets/TeyvatMovePath"]
+	path = assets/TeyvatMovePath
+	url = https://github.com/GenshinImpactAssistant/GIATeyvatMovePath.git
+[submodule "assets/PPOCRModels"]
+	path = assets/PPOCRModels
+	url = https://github.com/GenshinImpactAssistant/PPOCRModels
+[submodule "assets/LangData"]
+	path = assets/LangData
+	url = https://github.com/GenshinImpactAssistant/GIALangData
+[submodule "assets/imgs"]
+	path = assets/imgs
+	url = https://github.com/GenshinImpactAssistant/GIA-imgs
